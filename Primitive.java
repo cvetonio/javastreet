@@ -6,7 +6,7 @@ public class Primitive {
     public static void main(String[] args) {
 
         
-        String h = "H;
+        String h = "H";
         String rld = "rld";
         short ell = 311;
         byte zero = 0;        
